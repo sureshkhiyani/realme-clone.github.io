@@ -1,0 +1,143 @@
+*{@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0px;
+    padding: 0px;}
+footer{
+    height: 12vh;
+    background-color:black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+header{
+    background-color: #019187;
+   
+
+}
+nav {
+    display: flex;
+}
+.logo{
+    display: flex;
+   
+    
+}
+.logo img{
+    height: 70px;
+    padding: 2px 110px 2px 2px;
+    width: 220px;
+    
+}
+.home{
+    padding: 25px 100px;
+    width: 50px;
+}
+.home a{
+    text-decoration: none;
+    color: white;
+}
+.home a:hover{
+font-weight: bolder;
+}
+.product{
+    padding: 25px 100px;
+    width: 50px;
+}
+.product a{
+    text-decoration: none;
+    color: white;
+   
+}
+.product a:hover{
+    font-weight: bolder;
+    }
+.about{
+    padding: 25px 100px;
+    width: 50px;
+}
+.about a{
+    text-decoration: none;
+    color: white;
+   
+}
+.about a:hover{
+    font-weight: bolder;
+    }
+    .contact{
+    padding: 25px 100px;
+    width: 50px;
+}
+.contact a{
+    text-decoration: none;
+    color: white;
+   
+}
+.contact a:hover{
+    font-weight: bolder;
+}
+.main{
+    min-height:calc(100vh - 74px - 12vh);
+}
+#i1{
+    margin: 30px;
+    height: 200px;
+    width: 500px;
+}
+p{
+    margin: 30px;
+}
+#p1{
+    margin: 0px;
+}
+h1{
+    margin: 30px;
+}
+#i2{
+    height: 150px;
+}
+#h1{
+	font-size: 31px;
+}
+#h2{
+    margin: 33px;
+    font-size: 50px;
+}
+#i3{
+    height: 240px;
+    width: 325px;
+    margin: 0px 100px 0px 200px;
+}
+#i4{
+    height: 240px;
+    width: 325px;
+    margin: 0px 100px 0px 0px;
+}
+#i5{
+    height: 240px;
+    width: 325px;
+}
+.para{
+    display: inline-block;
+    margin:  0px 150px;
+    font-size: 22px;
+}
+.para1{
+    display: inline-block;
+    margin: 50px 160px;
+    font-size: 22px;
+}
+.para2{
+    display: inline-block;
+    margin: 0px 150px;
+    font-size: 22px;
+}
+.para3{
+    margin: 20px 35px 0px;
+    font-size: 22px;
+}
+.para4{
+    font-size: 19px;
+    margin: 0px 600px;
+}
